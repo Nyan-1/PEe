@@ -1,11 +1,11 @@
 {
-    "token": "TOKEN HERE",
-    "prefix": "x",
-    "password": "",
+    "token": "mfa.EmnlMePe6kVbxTISXQ58CWPTGa0H0PxIxG0Efik0pggnp7DHgBOokk4fnI9SV82STVkEZiESNpWyfTj3gGbV",
+    "prefix": "+",
+    "password": "feelingood69420",
     
     "nitro_sniper": true, 
     "giveaway_sniper": true,
 
-    "stream_url": "https://twitch.tv/teegrizzley",
+    "stream_url": "https://twitch.tv/nyan_1",
     "tts_language": "en"
 }
